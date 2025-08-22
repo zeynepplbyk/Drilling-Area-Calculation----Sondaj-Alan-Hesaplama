@@ -27,11 +27,7 @@ Bölünen karelerin boyutları 1x1, 2x2, 4x4, 8x8 veya 16x16 olarak belirlenir. 
    - Duplicate kontrolü yapılır, kenar sayıları belirlenir  
 
 3. **Alan ve Rezerv Hesaplama**  
-   - Her bölge için minimum ve maksimum X-Y koordinatları bulunur  
-   - Kare sayısı, ziyaret edilen alan ve EBOB formülü ile toplam bölge alanı hesaplanır  
-   - Toplam alan üzerinden rezerv değeri hesaplanır:  
-     ```text
-     Birim kare x 10 = rezerv değeri
+   - yardım alınan matematiksel formül : https://math.stackexchange.com/questions/2138051/how-many-squares-are-crossed-by-the-diagonal-of-a-rectangle-splitted-into-n-ti
      ```  
 
 4. **Platform ve Sondaj Hesaplama**  
