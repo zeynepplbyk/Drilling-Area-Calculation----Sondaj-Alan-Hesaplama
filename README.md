@@ -59,6 +59,10 @@ Bölünen karelerin boyutları 1x1, 2x2, 4x4, 8x8 veya 16x16 olarak belirlenir. 
 - Her bölge için birim kare sayısı ve alan bilgisi görüntülenir  
 
 ---
+<img width="610" height="204" alt="Ekran Resmi 2025-08-22 12 30 23" src="https://github.com/user-attachments/assets/360a8008-3298-4ef2-b2dc-29c4f9587302" />
+
+<img width="888" height="804" alt="Ekran Resmi 2025-08-22 12 45 45" src="https://github.com/user-attachments/assets/202d618e-0a76-4948-bc62-2c0094175819" />
+
 
 ## Kurulum ve Çalıştırma
 1. Depoyu klonlayın:  
